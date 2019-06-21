@@ -1,4 +1,4 @@
-info
+info:
   profile:dev
     database:mysql
     username:wk-dev
