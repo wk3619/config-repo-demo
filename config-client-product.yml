@@ -1,4 +1,4 @@
 info:
-  profile:test
-    database:mysql
-    username:wk-product
+  profile: test
+    database: mysql
+    username: wk-product
